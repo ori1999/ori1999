@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋
 
 - 🔭 Base Shanghai
 - 🌱 I’m currently learning C Sharp
