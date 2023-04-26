@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Base Shanghai
-- 🌱 I’m currently learning Sharp
+- 🌱 I’m currently learning C Sharp
 
 <!--
 **ori1999/ori1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
