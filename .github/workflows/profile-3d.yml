@@ -13,8 +13,8 @@ jobs:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{secrets.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}}
-          USERNAME: ${{github.ori1999}}
+          GITHUB_TOKEN:secrets.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
+          USERNAME:github.ori1999
       - name: Commit & Push
         run: |
           git config user.name github-actions
